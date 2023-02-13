@@ -844,9 +844,10 @@ a.callbacks_nav.callbacks3_nav.next{
 }
 /*-- //about us--*/
 /*-- Stats --*/
+
 /* Image needsot be replaced */
 .stats-agileits {
-    background: url(../KGsection/7.jpeg)no-repeat;
+    background: url(../noncurricular/scienceexhi/2.jpg)no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
 }
@@ -1228,7 +1229,7 @@ figure img {
     margin: 0 auto;
 }
 .about-agile {
-    background: url(../KGsection/7.jpeg)no-repeat;
+    background: url(../noncurricular/scienceexhi/2.jpg)no-repeat;
     background-attachment: fixed;
     background-size: cover;
 	-webkit-background-size: cover;
