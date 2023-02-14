@@ -963,9 +963,15 @@ html {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
+    animation: fadeIn 5s;
     -webkit-transition: all .2s ease-in-out;
          -o-transition: all .2s ease-in-out;
             transition: all .2s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
   }
   .img-circle {
     border-radius: 50%;

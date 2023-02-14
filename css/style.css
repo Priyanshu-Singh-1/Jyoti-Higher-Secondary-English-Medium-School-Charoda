@@ -847,10 +847,12 @@ a.callbacks_nav.callbacks3_nav.next{
 
 /* Image needsot be replaced */
 .stats-agileits {
-    background: url(../noncurricular/scienceexhi/2.jpg)no-repeat;
+    background: url(../photo_gallery/infra3.jpeg)no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
 }
+
+
 .stats-info.agileits.w3layouts {
     padding: 2em 0;
     background: rgba(255, 255, 255, 0.14);
