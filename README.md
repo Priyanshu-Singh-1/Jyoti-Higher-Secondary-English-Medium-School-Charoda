@@ -24,7 +24,7 @@ The website serves as the main platform for the school and provides information 
 ## Deployment
 You can check the website [here](https://jyotividyalaycharoda.com/) 🌟
 
-## Contact
+## Contact   
 
 For any questions or inquiries regarding the website, please feel free to reach out to me via [email](priyanshu4vitchennai@gmail.com) 
 or [Linkedin](https://www.linkedin.com/in/sublime-priyanshu/). 
