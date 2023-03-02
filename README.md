@@ -2,7 +2,7 @@
 
 A custom website developed for Jyoti Vidyalaya, Charoda, a medium-sized school with approximately 800-1200 students and 60 teachers,  
 as a freelance project using HTML, CSS, and JavaScript. 
-The website serves as the main platform for the school and provides information to students, parents, and teachers.
+The website serves as the main platform for the school and provides information to students, parents, and teachers.  
 
 ## Features
 
