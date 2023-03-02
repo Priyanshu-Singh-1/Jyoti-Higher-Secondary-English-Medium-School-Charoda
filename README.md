@@ -1,4 +1,4 @@
-# **Jyoti Vidyalay Website - Freelance Project**
+# **Jyoti Vidyalay Website - The Project**
 
 A custom website developed for Jyoti Vidyalaya, Charoda, a medium-sized school with approximately 800-1200 students and 60 teachers,  
 as a freelance project using HTML, CSS, and JavaScript. 
